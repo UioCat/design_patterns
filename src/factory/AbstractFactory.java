@@ -6,7 +6,7 @@ package factory;
  * 用来生产不同产品族的全部产品（对于新增加的产品无能为力，支持新增产品族）
  */
 public class AbstractFactory {
-    
+
 }
 
 interface CarFactoryForAbstract {
