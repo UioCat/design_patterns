@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f06c7d-a001-40be-b646-5168fa01a32d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/prototype/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prototype/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prototype/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prototype/Sheep2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prototype/Prototype.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +79,40 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.Client2">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prototype.Client" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prototype.Client2" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client2" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -86,6 +125,7 @@
       <updated>1611833598672</updated>
       <workItem from="1611833601021" duration="4179000" />
       <workItem from="1611906173043" duration="1170000" />
+      <workItem from="1612027005009" duration="2840000" />
     </task>
     <servers />
   </component>
