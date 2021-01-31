@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f06c7d-a001-40be-b646-5168fa01a32d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prototype/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prototype/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prototype/Sheep2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Adapter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Target.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prototype/Prototype.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +126,7 @@
       <workItem from="1611833601021" duration="4179000" />
       <workItem from="1611906173043" duration="1170000" />
       <workItem from="1612027005009" duration="2840000" />
+      <workItem from="1612107200418" duration="1434000" />
     </task>
     <servers />
   </component>
