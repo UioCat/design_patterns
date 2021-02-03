@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f06c7d-a001-40be-b646-5168fa01a32d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/proxy/dynamicProxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/dynamicProxy/RealStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/dynamicProxy/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/dynamicProxy/StarHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/staticProxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/staticProxy/ProxyStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/staticProxy/RealStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/staticProxy/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Lenovo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Pad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/FactoryMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/FactoryMethod.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +147,8 @@
       <workItem from="1611906173043" duration="1170000" />
       <workItem from="1612027005009" duration="2840000" />
       <workItem from="1612107200418" duration="1532000" />
-      <workItem from="1612163672561" duration="3168000" />
+      <workItem from="1612163672561" duration="4377000" />
+      <workItem from="1612252482705" duration="1150000" />
     </task>
     <servers />
   </component>
