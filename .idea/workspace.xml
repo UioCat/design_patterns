@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f06c7d-a001-40be-b646-5168fa01a32d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/iterator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/ConcreteMyAggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/MyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/Development.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/Financial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/President.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,20 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="proxy.dynamicProxy.Client" />
-      <module name="design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="proxy.dynamicProxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Client (5)">
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="decorator.Client" />
       <module name="design_patterns" />
@@ -135,6 +125,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mediator.Client" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="iterator.Client" />
       <module name="design_patterns" />
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +182,8 @@
       <workItem from="1613316534902" duration="1676000" />
       <workItem from="1613369255187" duration="1022000" />
       <workItem from="1613663357655" duration="1470000" />
-      <workItem from="1613755608543" duration="747000" />
+      <workItem from="1613755608543" duration="823000" />
+      <workItem from="1613757723749" duration="792000" />
     </task>
     <servers />
   </component>
