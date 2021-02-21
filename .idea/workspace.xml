@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f06c7d-a001-40be-b646-5168fa01a32d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mediator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediator/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediator/Development.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediator/Financial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediator/President.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/ConcreteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Receiver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/proxy/dynamicProxy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -184,6 +183,7 @@
       <workItem from="1613663357655" duration="1470000" />
       <workItem from="1613755608543" duration="823000" />
       <workItem from="1613757723749" duration="792000" />
+      <workItem from="1613916130649" duration="433000" />
     </task>
     <servers />
   </component>
