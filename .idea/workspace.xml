@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f06c7d-a001-40be-b646-5168fa01a32d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/command/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ConcreteCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interpreter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/virsitor/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -183,7 +180,8 @@
       <workItem from="1613663357655" duration="1470000" />
       <workItem from="1613755608543" duration="823000" />
       <workItem from="1613757723749" duration="792000" />
-      <workItem from="1613916130649" duration="433000" />
+      <workItem from="1613916130649" duration="552000" />
+      <workItem from="1613928683032" duration="220000" />
     </task>
     <servers />
   </component>
