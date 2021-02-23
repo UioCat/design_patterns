@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f06c7d-a001-40be-b646-5168fa01a32d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/templateMethod/BankTemplateMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templateMethod/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/BookedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/CheckedInState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/FreeState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -185,7 +189,8 @@
       <workItem from="1613932720718" duration="624000" />
       <workItem from="1614006774547" duration="953000" />
       <workItem from="1614022822659" duration="87000" />
-      <workItem from="1614104058773" duration="325000" />
+      <workItem from="1614104058773" duration="496000" />
+      <workItem from="1614105661581" duration="309000" />
     </task>
     <servers />
   </component>
